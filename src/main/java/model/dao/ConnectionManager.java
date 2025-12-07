@@ -6,7 +6,6 @@ import java.sql.SQLException;
 
 public class ConnectionManager {
 
-    // ★ ここは自分の環境に合わせて書き換えてね
 	private static final String URL =
 	        "jdbc:mysql://127.0.0.1:3306/product_management?serverTimezone=Asia/Tokyo";
 	    private static final String USER = "java";

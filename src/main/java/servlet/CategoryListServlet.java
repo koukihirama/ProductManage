@@ -33,7 +33,7 @@ public class CategoryListServlet extends HttpServlet {
             rd.forward(request, response);
 
         } catch (SQLException e) {
-            // とりあえず雑でもOK（課題で指定あれば合わせる）
+           
             throw new ServletException(e);
         }
     }
