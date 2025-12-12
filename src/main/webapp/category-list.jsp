@@ -15,6 +15,10 @@
 </head>
 <body>
   <h1>カテゴリリスト</h1>
+  
+  <p>
+    <a href="category-register.jsp">カテゴリを新規登録する</a>
+  </p>
 
   <table>
     <tr>
